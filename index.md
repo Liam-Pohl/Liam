@@ -1,6 +1,6 @@
 ## Welcome to Liam's computer programing portfolio
 
-![typing test]()
+![typing test](Screenshot 2020-08-27 at 7.50.00 AM.png)
 
 You can use the [editor on GitHub](https://github.com/Liam-Pohl/Liam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
