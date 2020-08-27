@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Liam's computer programing portfolio
 
 You can use the [editor on GitHub](https://github.com/Liam-Pohl/Liam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
